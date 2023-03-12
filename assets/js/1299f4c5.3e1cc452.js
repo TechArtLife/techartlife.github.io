@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[518],{6325:e=>{e.exports=JSON.parse('{"label":"Starter","permalink":"/docs/tags/starter","allTagsPath":"/docs/tags","count":1,"items":[{"id":"docindex","title":"An Introduction","description":"Happy Life.","permalink":"/docs/"}]}')}}]);
