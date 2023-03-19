@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://techartlife.com/blog</id>
+    <id>https://www.techartlife.com/blog</id>
     <title>TechArtLife' Blog Blog</title>
     <updated>2023-03-12T07:44:13.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://techartlife.com/blog"/>
+    <link rel="alternate" href="https://www.techartlife.com/blog"/>
     <subtitle>TechArtLife' Blog Blog</subtitle>
-    <icon>https://techartlife.com/img/favicon.png</icon>
+    <icon>https://www.techartlife.com/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[New blog with style]]></title>
-        <id>https://techartlife.com/blog/index</id>
-        <link href="https://techartlife.com/blog/index"/>
+        <id>https://www.techartlife.com/blog/index</id>
+        <link href="https://www.techartlife.com/blog/index"/>
         <updated>2023-03-12T07:44:13.000Z</updated>
         <summary type="html"><![CDATA[Happy Life.]]></summary>
         <content type="html"><![CDATA[<blockquote><p>Happy Life.</p></blockquote>]]></content>
