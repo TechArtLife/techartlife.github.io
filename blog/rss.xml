@@ -4,7 +4,7 @@
         <title>TechArtLife' Blog Blog</title>
         <link>http://techartlife.xmagicer.io/blog</link>
         <description>TechArtLife' Blog Blog</description>
-        <lastBuildDate>Fri, 21 Apr 2023 16:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 16:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[New blog with style]]></title>
             <link>http://techartlife.xmagicer.io/blog/index</link>
             <guid>http://techartlife.xmagicer.io/blog/index</guid>
-            <pubDate>Fri, 21 Apr 2023 16:50:41 GMT</pubDate>
+            <pubDate>Mon, 01 May 2023 16:07:40 GMT</pubDate>
             <description><![CDATA[Happy Life.]]></description>
             <content:encoded><![CDATA[<blockquote><p>Happy Life.</p></blockquote>]]></content:encoded>
         </item>
