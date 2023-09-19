@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[5309],{8931:e=>{e.exports=JSON.parse('{"label":"game-engine","permalink":"/blog/tags/game-engine","allTagsPath":"/blog/tags","count":3}')}}]);

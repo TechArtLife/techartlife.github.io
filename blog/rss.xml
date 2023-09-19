@@ -4,15 +4,45 @@
         <title>TechArtLife' Blog Blog</title>
         <link>http://techartlife.xmagicer.io/blog</link>
         <description>TechArtLife' Blog Blog</description>
-        <lastBuildDate>Mon, 01 May 2023 16:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
-            <title><![CDATA[New blog with style]]></title>
+            <title><![CDATA[游戏引擎之 Cocos]]></title>
+            <link>http://techartlife.xmagicer.io/blog/2023/09/19/about-cocos-game-engine</link>
+            <guid>http://techartlife.xmagicer.io/blog/2023/09/19/about-cocos-game-engine</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Some introduction about Cocos]]></description>
+            <content:encoded><![CDATA[<blockquote><p>记录关于 Cocos 游戏引擎的一些总结。</p></blockquote><h2 class="anchor anchorWithStickyNavbar_LWe7" id="常见的游戏引擎">常见的游戏引擎<a href="#常见的游戏引擎" class="hash-link" aria-label="常见的游戏引擎的直接链接" title="常见的游戏引擎的直接链接">​</a></h2><ul><li><a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer">Unreal Engine</a></li><li><a href="https://unity.com/" target="_blank" rel="noopener noreferrer">Unity3D</a></li><li><a href="https://www.cocos.com/" target="_blank" rel="noopener noreferrer">Cocos</a></li><li><a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">Godot</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="cocos-特性">Cocos 特性<a href="#cocos-特性" class="hash-link" aria-label="Cocos 特性的直接链接" title="Cocos 特性的直接链接">​</a></h2><ul><li>国产商业引擎</li><li>免费</li><li>核心开源，编辑器不开源</li><li>脚本语言: Javascript</li></ul>]]></content:encoded>
+            <category>cocos-engine</category>
+            <category>game-engine</category>
+        </item>
+        <item>
+            <title><![CDATA[游戏引擎之 Unity3D]]></title>
+            <link>http://techartlife.xmagicer.io/blog/2023/09/19/about-unity3d-game-engine</link>
+            <guid>http://techartlife.xmagicer.io/blog/2023/09/19/about-unity3d-game-engine</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Some introduction about Unity3D Game Engine]]></description>
+            <content:encoded><![CDATA[<blockquote><p>记录关于 Unity3D 游戏引擎的一些总结。</p></blockquote><h2 class="anchor anchorWithStickyNavbar_LWe7" id="常见的游戏引擎">常见的游戏引擎<a href="#常见的游戏引擎" class="hash-link" aria-label="常见的游戏引擎的直接链接" title="常见的游戏引擎的直接链接">​</a></h2><ul><li><a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer">Unreal Engine</a></li><li><a href="https://unity.com/" target="_blank" rel="noopener noreferrer">Unity3D</a></li><li><a href="https://www.cocos.com/" target="_blank" rel="noopener noreferrer">Cocos</a></li><li><a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">Godot</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="unity3d-特性">Unity3D 特性<a href="#unity3d-特性" class="hash-link" aria-label="Unity3D 特性的直接链接" title="Unity3D 特性的直接链接">​</a></h2><ul><li>商业引擎</li><li>多种收费方式</li><li>不开源</li><li>脚本语言: C#</li><li>跨平台</li><li>生态完整</li><li>成功项目较多</li><li>较为轻量级</li><li>门槛低</li><li>版本较多，版本之间兼容性较差</li><li>支持插件商店</li><li>高级功能不多，官方维护较差</li></ul>]]></content:encoded>
+            <category>unity3d</category>
+            <category>game-engine</category>
+        </item>
+        <item>
+            <title><![CDATA[游戏引擎之 Unreal Engine]]></title>
+            <link>http://techartlife.xmagicer.io/blog/2023/09/19/about-unrealengine-game-engine</link>
+            <guid>http://techartlife.xmagicer.io/blog/2023/09/19/about-unrealengine-game-engine</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Some introduction about Unreal Engine]]></description>
+            <content:encoded><![CDATA[<blockquote><p>记录关于 Unreal Engine 游戏引擎的一些总结。</p></blockquote><h2 class="anchor anchorWithStickyNavbar_LWe7" id="常见的游戏引擎">常见的游戏引擎<a href="#常见的游戏引擎" class="hash-link" aria-label="常见的游戏引擎的直接链接" title="常见的游戏引擎的直接链接">​</a></h2><ul><li><a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer">Unreal Engine</a></li><li><a href="https://unity.com/" target="_blank" rel="noopener noreferrer">Unity3D</a></li><li><a href="https://www.cocos.com/" target="_blank" rel="noopener noreferrer">Cocos</a></li><li><a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">Godot</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="unreal-engine-特性">Unreal Engine 特性<a href="#unreal-engine-特性" class="hash-link" aria-label="Unreal Engine 特性的直接链接" title="Unreal Engine 特性的直接链接">​</a></h2><ul><li>商业引擎</li><li>满足条件后提成</li><li>开源</li><li>脚本语言: C++ &amp; 蓝图</li></ul>]]></content:encoded>
+            <category>unreal-engine</category>
+            <category>game-engine</category>
+        </item>
+        <item>
+            <title><![CDATA[Blog with ❤]]></title>
             <link>http://techartlife.xmagicer.io/blog/index</link>
             <guid>http://techartlife.xmagicer.io/blog/index</guid>
-            <pubDate>Mon, 01 May 2023 16:07:40 GMT</pubDate>
+            <pubDate>Mon, 01 May 2023 16:41:34 GMT</pubDate>
             <description><![CDATA[Happy Life.]]></description>
             <content:encoded><![CDATA[<blockquote><p>Happy Life.</p></blockquote>]]></content:encoded>
         </item>
