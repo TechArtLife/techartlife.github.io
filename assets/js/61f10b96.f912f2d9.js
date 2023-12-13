@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8637],{3954:e=>{e.exports=JSON.parse('{"label":"Doc","permalink":"/docs/tags/doc","allTagsPath":"/docs/tags","count":1,"items":[{"id":"note_index","title":"Notes","description":"Happy Life.","permalink":"/docs/"}]}')}}]);
